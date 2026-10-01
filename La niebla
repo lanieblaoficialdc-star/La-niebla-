@@ -1,8 +1,8 @@
 {
   "Name": "La niebla",
-  "Version": 1790741656,
+  "Version": 1790836958,
   "MaxPerkRepetition": 1,
-  "GlobalNotes": "Balance 1v4 de La Niebla. Todos los killers permitidos. Los tiers D–S indican la clasificación; los bans efectivos están definidos por killer. The First: Lithe prohibida para supervivientes. The Judgment: mapa Suffocation Pit.",
+  "GlobalNotes": "",
   "Tiers": [
     {
       "Name": "General",
@@ -379,7 +379,7 @@
     },
     {
       "Name": "The Wraith",
-      "KillerNotes": "Tier: C.\n\nCross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE\n\nCross-Ping Balancing:\nEruption is banned.",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         33
@@ -1146,7 +1146,7 @@
     },
     {
       "Name": "The Shape",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "20"
@@ -2674,7 +2674,7 @@
     },
     {
       "Name": "The Nightmare",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "33"
@@ -4944,7 +4944,7 @@
     },
     {
       "Name": "The Oni",
-      "KillerNotes": "Tier: A.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         0
@@ -5243,7 +5243,7 @@
     },
     {
       "Name": "The Deathslinger",
-      "KillerNotes": "Tier: B.\n\nCross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE\n\nCross-Ping Balancing:\n1 Brown Medkit with no addons is allowed.",
+      "KillerNotes": "Tier: B.",
       "IsDisabled": false,
       "Map": [
         8,
@@ -5487,7 +5487,7 @@
     },
     {
       "Name": "The Executioner",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "8"
@@ -5788,7 +5788,7 @@
     },
     {
       "Name": "The Blight",
-      "KillerNotes": "Tier: S.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: S.",
       "IsDisabled": false,
       "Map": [
         "4"
@@ -8955,7 +8955,7 @@
     },
     {
       "Name": "The Singularity",
-      "KillerNotes": "Tier: A.\n\nCross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE\n\nCross-Ping Balancing:\n1 Brown Medkit with no addons is allowed.",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         "1"
@@ -9480,7 +9480,7 @@
     },
     {
       "Name": "The Good Guy",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "32"
@@ -9783,7 +9783,7 @@
     },
     {
       "Name": "The Unknown",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "8"
@@ -10084,7 +10084,7 @@
     },
     {
       "Name": "The Lich",
-      "KillerNotes": "Tier: C.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: C.",
       "IsDisabled": false,
       "Map": [
         "49"
@@ -10666,7 +10666,7 @@
     },
     {
       "Name": "The Houndmaster",
-      "KillerNotes": "Tier: A.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         "54"
@@ -10964,7 +10964,7 @@
     },
     {
       "Name": "The Ghoul",
-      "KillerNotes": "Tier: A.\n\nCross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE\n\nCross-Ping Balancing:\nEruption is banned.\n1 Brown Medkit with no addons is allowed.",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         4,
@@ -11768,7 +11768,7 @@
     },
     {
       "Name": "The First",
-      "KillerNotes": "Tier: A.\n\nCross-Ping Balancing:\nCross-ping balance is only in effect in the following examples\n- SA vs EU\n- SA vs NAW\n- NAW vs EU\n- Matches involving Asia/OCE\n\nkiller permitido; Lithe prohibida para supervivientes.",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         "0"
@@ -12008,7 +12008,7 @@
     },
     {
       "Name": "The Slasher",
-      "KillerNotes": "Tier: A.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         "4"
@@ -12296,7 +12296,7 @@
     },
     {
       "Name": "The Judgment",
-      "KillerNotes": "Tier: A.\n\nKiller Maps for playoffs are killer specific!\n\nFor Killers:\nIndoor Maps- Putrid Oak\nOutdoor Maps- Cut Coin\n\nmapa Suffocation Pit.",
+      "KillerNotes": "Tier: A.",
       "IsDisabled": false,
       "Map": [
         "4"
